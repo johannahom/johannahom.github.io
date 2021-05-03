@@ -5,4 +5,4 @@
 
 ## Papers
 
-- (Submitted to SSW11) Factors Affecting the Evaluation of Synthetic Speech in Context - Johannah O'Mahony, Pilar Oplustil-Gallegos, Catherine Lai, Simon King [link to stimuli](johannahom.github.io/SSW-samples/)
+- (Submitted to SSW11) Factors Affecting the Evaluation of Synthetic Speech in Context - Johannah O'Mahony, Pilar Oplustil-Gallegos, Catherine Lai, Simon King [link to stimuli](https://johannahom.github.io/SSW-samples/)
