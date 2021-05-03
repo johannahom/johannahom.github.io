@@ -12,24 +12,24 @@
 <div>
     <div>
         <h2>
-            Comparing acoustic and textual representations of previous linguistic context for improving Text-to-Speech (Submitted to SSW 2021)
+            Factors Affecting the Evaluation of Synthetic Speech in Context (Submitted to SSW 2021)
         </h2>
     </div>
     <div style="padding-top:16px;">
-        <b>Authors:</b>&nbsp;&nbsp;Pilar Oplustil Gallegos, Johannah O'Mahony, Simon King
+        <b>Authors:</b>&nbsp;&nbsp;Johannah O'Mahony, Pilar Oplustil Gallegos, Catherine Lai, Simon King
         <br>
         CSTR, University of Edinburgh, Scotland
 
     </div>
 
     <div style="padding-top:16px;"><h3>Abstract</h3></div>
-    <div style="padding-top:16px;"> Text alone does not contain sufficient information to predict the spoken form. Using additional information, such as the linguistic context, should improve Text-to-Speech naturalness in general, and prosody in particular. Most recent research on using context is limited to using textual features of adjacent utterances, extracted with large pre-trained language models such as BERT. In this paper, we compare multiple representations of linguistic context by conditioning a Text-to-Speech model on features of the preceding utterance. We experiment with three design choices: (1) acoustic vs. textual representations; (2) features extracted with large pre-trained models vs. features learnt jointly during training; and (3) representing context at the utterance level vs. word level. Our results show that appropriate representations of either text or acoustic context alone yield significantly better naturalness than a baseline that does not use context. Combining an utterance-level acoustic representation with a word-level textual representation gave the best results overall.</div>
+    <div style="padding-top:16px;"> Text-to-Speech synthesis is approaching the limit of naturalness that is possible from an isolated sentence. The focus of research is shifting to modelling contextual information, typically with the goal of producing better prosodic realisations by accounting for longer-range text dependencies from preceding sentences. But current evaluation methods were developed for single sentences and it is not yet clear how the evaluation of longer texts should be approached. Previous work suggests that evaluation of utterances in context can lead to an increase in Mean Opinion Score ratings, even when the synthesis technique is not context-aware. We investigated several factors that might explain this increase. Three experiments manipulated: the wording of instructions that participants received; the textual characteristics of context-stimulus pairs; and the prosodic realisation of the synthetic speech. We found that the wording of instructions has an impact on listeners' ratings of stimuli presented in context. The between-sentence context dependency of stimulus text has no impact on ratings. Listeners are, however, sensitive to prosodic differences, both in context and in isolation.</div>
 </div>
 
 
 
 <div>
-    <h3 style="padding-top:16px;"><a name="Experiments">First listening test: Acoustic features</a></h3>
+    <h3 style="padding-top:16px;"><a name="Experiments">Experiment 1 and 2</a></h3>
 
 
     <table style="padding-top:16px;" align="center">
