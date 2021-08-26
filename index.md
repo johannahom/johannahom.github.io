@@ -4,6 +4,7 @@
 - Supervised by Simon King and Catherine Lai
 
 ![IMG_9765 2](https://user-images.githubusercontent.com/18417271/130977569-70ee9bfd-5f8d-4e81-9f97-4a87b111876e.jpg)
+<img src="https://user-images.githubusercontent.com/18417271/130977569-70ee9bfd-5f8d-4e81-9f97-4a87b111876e.jpg" width="100" height="100">
 
 
 ## Papers
