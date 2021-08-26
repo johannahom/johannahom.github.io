@@ -3,6 +3,9 @@
 - Currently a PhD student at the University of Edinburgh - Centre for Speech Technology Research.
 - Supervised by Simon King and Catherine Lai
 
+![IMG_9765 2](https://user-images.githubusercontent.com/18417271/130977569-70ee9bfd-5f8d-4e81-9f97-4a87b111876e.jpg)
+
+
 ## Papers
 
 - Pilar Oplustil-Gallegos, Johannah O'Mahony, Simon King (2021) "Comparing acoustic and textual representations of previous linguistic context for improving Text-to-Speech" Speech Synthesis Workshop SSW11
