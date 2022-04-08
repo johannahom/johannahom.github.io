@@ -7,7 +7,7 @@
 
 
 ## Papers
-- Joanna Kruyt<sup>*</sup>, Lena-Marie Huttner<sup>*</sup>, Johannah O’Mahony<sup>*</sup> (submitted) "Investigating the relationship between prosodic entrainment and interaction style" Submitted Interspeech (<sup>*</sup>equal contribution)
+- Joanna Kruyt<sup>1</sup>, Lena-Marie Huttner<sup>1</sup>, Johannah O’Mahony<sup>1</sup> (submitted) "Investigating the relationship between prosodic entrainment and interaction style" Submitted Interspeech (<sup>1</sup>equal contribution)
 - Johannah O'Mahony, Catherine Lai, Simon King (submitted) "Combining conversational speech with read speech to improve prosody in Text-to-Speech synthesis" Submitted Interspeech
 - Pilar Oplustil-Gallegos, Johannah O'Mahony, Simon King (2021) "Comparing acoustic and textual representations of previous linguistic context for improving Text-to-Speech" Speech Synthesis Workshop SSW11 [paper](https://www.isca-speech.org/archive/pdfs/ssw_2021/oplustilgallegos21_ssw.pdf)
 - Johannah O'Mahony, Pilar Oplustil-Gallegos, Catherine Lai, Simon King (2021) "Factors Affecting the Evaluation of Synthetic Speech in Context" Speech Synthesis Workshop SSW11 - [link to stimuli](https://johannahom.github.io/SSW-samples/) [paper](https://www.isca-speech.org/archive/pdfs/ssw_2021/omahony21_ssw.pdf)
