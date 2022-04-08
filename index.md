@@ -7,7 +7,8 @@
 
 
 ## Papers
-
+-Joanna Kruyt*, Lena-Marie Huttner*, Johannah O’Mahony* (submitted) "Investigating the relationship between prosodic entrainment and interaction style" Submitted Interspeech (equal contribution)
+- Johannah O'Mahony, Catherine Lai, Simon King (submitted) "Combining conversational speech with read speech to improve prosody in Text-to-Speech synthesis" Submitted Interspeech
 - Pilar Oplustil-Gallegos, Johannah O'Mahony, Simon King (2021) "Comparing acoustic and textual representations of previous linguistic context for improving Text-to-Speech" Speech Synthesis Workshop SSW11 [paper](https://www.isca-speech.org/archive/pdfs/ssw_2021/oplustilgallegos21_ssw.pdf)
 - Johannah O'Mahony, Pilar Oplustil-Gallegos, Catherine Lai, Simon King (2021) "Factors Affecting the Evaluation of Synthetic Speech in Context" Speech Synthesis Workshop SSW11 - [link to stimuli](https://johannahom.github.io/SSW-samples/) [paper](https://www.isca-speech.org/archive/pdfs/ssw_2021/omahony21_ssw.pdf)
 - Marc Schulder, Johannah O’Mahony, Yury Bakanouski, Dietrich Klakow (2020) "ATC-ANNO: Semantic Annotation for Air Traffic Control with Assistive Auto-Annotation" [paper](https://www.aclweb.org/anthology/2020.lrec-1.783.pdf)
