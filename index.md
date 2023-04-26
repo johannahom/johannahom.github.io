@@ -12,7 +12,8 @@
 
 
 ## Papers
-- Johannah O'Mahony, Catherine Lai, Simon King (2022) "Combining conversational speech with read speech to improve prosody in Text-to-Speech synthesis" Submitted Interspeech [samples](https://johannahom.github.io/Interspeech-Samples/)
+- Sofoklis Kakouros, Johannah O'Mahony (accepted) "What does BERT learn about prosody?" International Congress of Phonetic Sciences (ICPhS 2023 Prague)
+- Johannah O'Mahony, Catherine Lai, Simon King (2022) "Combining conversational speech with read speech to improve prosody in Text-to-Speech synthesis"  Interspeech [samples](https://johannahom.github.io/Interspeech-Samples/)
 - Pilar Oplustil-Gallegos, Johannah O'Mahony, Simon King (2021) "Comparing acoustic and textual representations of previous linguistic context for improving Text-to-Speech" Speech Synthesis Workshop SSW11 [paper](https://www.isca-speech.org/archive/pdfs/ssw_2021/oplustilgallegos21_ssw.pdf)
 - Johannah O'Mahony, Pilar Oplustil-Gallegos, Catherine Lai, Simon King (2021) "Factors Affecting the Evaluation of Synthetic Speech in Context" Speech Synthesis Workshop SSW11 - [link to stimuli](https://johannahom.github.io/SSW-samples/) [paper](https://www.isca-speech.org/archive/pdfs/ssw_2021/omahony21_ssw.pdf)
 - Marc Schulder, Johannah O’Mahony, Yury Bakanouski, Dietrich Klakow (2020) "ATC-ANNO: Semantic Annotation for Air Traffic Control with Assistive Auto-Annotation" (LREC2020) [paper](https://www.aclweb.org/anthology/2020.lrec-1.783.pdf)
