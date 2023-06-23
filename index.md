@@ -7,13 +7,13 @@
 
 
 ## News
-
-- Happy to announce that we will be presenting two papers at ICPhS in Prague in August.
-- In Spring 2023 I will be doing a three month placement at ReadSpeaker with Esther Klabbers.
-- Excited to be one of the co-organisers of the Young Female Researchers in Speech Workshop at Interspeech this year.
-- I gave a talk at the ADAPT centre at Trinity College Dublin on the need for more research into context effects in speech.
-- I presented my paper on using found data to improve conversational prosody at Interspeech in Incheon in September.
-- From April-September 2022 I will be a visiting PhD student at the University of Helsinki.
+- June 2023: Two co-authored papers were accepted to Interspeech 2023 in Dublin.
+- May 2023: Happy to announce that we will be presenting two papers at ICPhS in Prague in August.
+- May 2023: In Spring 2023 I will be doing a three month placement at ReadSpeaker with Esther Klabbers.
+- January 2023: Excited to be one of the co-organisers of the Young Female Researchers in Speech Workshop at Interspeech this year.
+- November 2023: I gave a talk at the ADAPT centre at Trinity College Dublin on the need for more research into context effects in speech.
+- September 2023: I presented my paper on using found data to improve conversational prosody at Interspeech in Incheon in September.
+- April 2022: From April-September 2022 I will be a visiting PhD student at the University of Helsinki.
 
 
 ## Papers
