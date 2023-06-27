@@ -17,7 +17,10 @@
 
 
 ## Papers
+- Adriana Stan, Johannah O'Mahony (SSW accepted) "An analysis on the effects of speaker embedding choice
+in non auto-regressive TTS"
 - Johannah O'Mahony, Catherine Lai, Simon King "Synthesising turn-taking cues using natural conversational data" (SSW accepted) [samples](https://johannahom.github.io/SSW-2023/)
+- Mikey Elmers, Johannah O'Mahony, Éva Szekely (Interspeech Accepted) "Synthesis after a couple PINTs: Investigating the Role of Pause-Internal Phonetic Particles in Speech Synthesis and Perception"
 - Joanna Kruyt, Lena-Marie Huttner, Johannah O’Mahony (accepted) "Investigating the relationship between prosodic entrainment and interaction style" International Congress of Phonetic Sciences (ICPhS 2023 Prague) (equal contribution paper)
 - Sofoklis Kakouros, Johannah O'Mahony (accepted) "What does BERT learn about prosody?" International Congress of Phonetic Sciences (ICPhS 2023 Prague)
 - Johannah O'Mahony, Catherine Lai, Simon King (2022) "Combining conversational speech with read speech to improve prosody in Text-to-Speech synthesis"  Interspeech [samples](https://johannahom.github.io/Interspeech-Samples/)
