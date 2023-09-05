@@ -1,12 +1,14 @@
 ## Johannah O'Mahony
 
-- Currently a Marie Curie Early Stage Researcher (PhD student) at the University of Edinburgh - Centre for Speech Technology Research.
-- Supervised by Simon King and Catherine Lai
+<img src="https://user-images.githubusercontent.com/18417271/130977569-70ee9bfd-5f8d-4e81-9f97-4a87b111876e.jpg" width="187" height="250">
 
-<img src="https://user-images.githubusercontent.com/18417271/130977569-70ee9bfd-5f8d-4e81-9f97-4a87b111876e.jpg" width="232" height="309">
+I am currently a Marie Curie Early Stage Researcher (PhD student) at the University of Edinburgh - Centre for Speech Technology Research.
+My PhD is funded by the Innovative Training Network Grant called [Conversational Brains](https://www.cobra-network.eu) and you can find a link to my Early Stage Researcher profile [here][https://www.cobra-network.eu/cobra-project-goals/topics/esr9-acoustic-phonetic-alignment-in-synthetic-speech/].
+In my research, I focus on aspects of conversational context that have an influence on the prosodic output of an utterance in natural conversational speech. The main goal is to use speech synthesis as a tool to explore how context affects prosody, and at the same time we want to leverage new contextual features in our TTS models to improve conversational TTS output. I am supervised by Simon King and Catherine Lai.
 
 
 ## News
+- August 2023: Two co-authored papers were accepted to the Speech Synthesis Workshop in Grenoble.
 - June 2023: Two co-authored papers were accepted to Interspeech 2023 in Dublin.
 - May 2023: Happy to announce that we will be presenting two papers at ICPhS in Prague in August.
 - May 2023: In Spring 2023 I will be doing a three month placement at ReadSpeaker with Esther Klabbers.
@@ -30,4 +32,3 @@ in non auto-regressive TTS"
 - Marc Schulder, Johannah O’Mahony, Yury Bakanouski, Dietrich Klakow (2020) "ATC-ANNO: Semantic Annotation for Air Traffic Control with Assistive Auto-Annotation" (LREC2020) [paper](https://www.aclweb.org/anthology/2020.lrec-1.783.pdf)
 - Johannah O'Mahony, Bernd Möbius (2019): "An investigation into exemplar effects in the perceptual learning paradigm". 19th International Congress of Phonetic Sciences (ICPhS 2019) (Melbourne), 2524-2528. [paper](https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_380.pdf)
 - Iona Gessinger, Eran Raveh, Johannah O'Mahony, Ingmar Steiner, Bernd Möbius (2016): "A shadowing experiment with natural and synthetic stimuli". 12. Tagung Phonetik und Phonologie im deutschsprachigen Raum (P&P 12, München), 58-61 [paper](http://www.coli.uni-saarland.de/~moebius/documents/gessinger_etal_pundp12-2016.pdf)
-
