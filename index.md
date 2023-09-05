@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/18417271/130977569-70ee9bfd-5f8d-4e81-9f97-4a87b111876e.jpg" width="187" height="250">
 
 I am currently a Marie Curie Early Stage Researcher (PhD student) at the University of Edinburgh - Centre for Speech Technology Research.
-My PhD is funded by the Innovative Training Network Grant called [Conversational Brains](https://www.cobra-network.eu) and you can find a link to my Early Stage Researcher profile [here][https://www.cobra-network.eu/cobra-project-goals/topics/esr9-acoustic-phonetic-alignment-in-synthetic-speech/].
+My PhD is funded by the Innovative Training Network Grant called [Conversational Brains](https://www.cobra-network.eu) and you can find a link to my Early Stage Researcher profile [here](https://www.cobra-network.eu/cobra-project-goals/topics/esr9-acoustic-phonetic-alignment-in-synthetic-speech/).
 In my research, I focus on aspects of conversational context that have an influence on the prosodic output of an utterance in natural conversational speech. The main goal is to use speech synthesis as a tool to explore how context affects prosody, and at the same time we want to leverage new contextual features in our TTS models to improve conversational TTS output. I am supervised by Simon King and Catherine Lai.
 
 
