@@ -20,6 +20,7 @@ In my research, I focus on aspects of conversational context that have an influe
 
 
 ## Papers
+- IS samples [samples](https://johannahom.github.io/IS2024/)
 - Prosody control [samples](https://johannahom.github.io/SP-2024/)
 - Adriana Stan, Johannah O'Mahony (2023) "An analysis on the effects of speaker embedding choice
 in non auto-regressive TTS" SSW 2023
